@@ -1,5 +1,7 @@
 package reductions
 
+// Made by PedroCorreiaLuis and RuiGSValente
+
 import scala.annotation._
 import org.scalameter._
 import common._
